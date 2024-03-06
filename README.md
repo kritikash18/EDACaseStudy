@@ -24,10 +24,14 @@ Types of approved applicants:
 Based on the data, the aim is to identify patterns which indicate if a person is likely to default to be able to make accurate decisions in the future.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Maximum defaulters were in lower income groups
+- Maximum defaulters were in loan grade B and C
+- Maximum defaulters took loan for the purpose of debt consolidation
+- Applicants who were on rent or mortgage defaulted more than applicants who owned houses
+- California, New York and Florida had the highest rate of defaulters
+- Majority of defaulter applicants were not verified by the bank
+- Longer payment term seemed to have lesser defaulters
+- Over the years, the number of defaulters has rapidly increased
 
 
 ## Technologies Used
