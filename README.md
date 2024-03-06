@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# EDACaseStudy
 
 Case study of a dataset that revolves around loan applicants and details of whether they paid the loan on time or not.
 
